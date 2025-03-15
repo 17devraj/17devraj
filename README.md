@@ -1,11 +1,10 @@
 # Welcome to My GitHub Profile!
 
 Hi there! 👋  
-I'm [Your Name], a passionate **Data Analyst/Full-Stack Developer** with a love for solving real-world problems through data. I specialize in:
+I'm Devraj Parmar, a passionate **Data Analyst/Data Engineer** with a love for solving real-world problems through data. I specialize in:
 - Data analysis using **Python** and **SQL**
 - Building interactive dashboards with **Power BI**
-- Developing full-stack web applications
-
+- Developing ETL pipelines
 ## Some of My Projects
 - **[Sales Forecasting Dashboard](link-to-repo)** – A Power BI dashboard for visualizing sales trends and forecasting future sales.
 - **[E-commerce Website](link-to-repo)** – A full-stack web application built with [technologies you used].
