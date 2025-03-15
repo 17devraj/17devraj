@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**17devraj/17devraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋  
+I'm [Your Name], a passionate **Data Analyst/Full-Stack Developer** with a love for solving real-world problems through data. I specialize in:
+- Data analysis using **Python** and **SQL**
+- Building interactive dashboards with **Power BI**
+- Developing full-stack web applications
 
-Here are some ideas to get you started:
+## Some of My Projects
+- **[Sales Forecasting Dashboard](link-to-repo)** – A Power BI dashboard for visualizing sales trends and forecasting future sales.
+- **[E-commerce Website](link-to-repo)** – A full-stack web application built with [technologies you used].
+- **[Data Cleaning Project](link-to-repo)** – A project focused on cleaning and transforming raw data for analysis using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+[LinkedIn Profile Link] | [Personal Website/Portfolio Link]
