@@ -11,4 +11,4 @@ I'm Devraj Parmar, a passionate **Data Analyst/Data Engineer** with a love for s
 - **[Data Cleaning Project](link-to-repo)** – A project focused on cleaning and transforming raw data for analysis using Python.
 
 ## Connect With Me
-[LinkedIn](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">https://www.linkedin.com/in/devraj-parmar-32932b233/</script>) | [Personal Website/Portfolio Link]
+[LinkedIn](https://www.linkedin.com/in/devraj-parmar) | [Personal Website/Portfolio Link]
