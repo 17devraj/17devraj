@@ -3,7 +3,7 @@
 Hi there! 👋  
 I'm Devraj Parmar, a passionate **Data Analyst/Data Engineer** with a love for solving real-world problems through data. I specialize in:
 - Data analysis using **Python** and **SQL**
-- Building interactive dashboards with **Power BI**
+- Building interactive dashboards with **Power BI** and **Tableau**
 - Developing ETL pipelines
 ## Some of My Projects
 - **[Sales Forecasting Dashboard](link-to-repo)** – A Power BI dashboard for visualizing sales trends and forecasting future sales.
