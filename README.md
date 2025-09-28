@@ -7,7 +7,7 @@ I'm Devraj Parmar, a passionate **Data Analyst/Data Engineer** with a love for s
 - Developing ETL pipelines
 ## Some of My Projects
 - **[Real Estate Predictive Analytics](https://github.com/17devraj/Real-Estate-Market-Insights-with-Predictive-Analytics)** – A data-driven project that predicts property prices and provides neighborhood-wise real estate insights in Edmonton using machine learning and Power BI.
-- **[Credit Risk Scoring using ML]([https://github.com/17devraj/E-commerce_website](https://github.com/17devraj/Credit-Risk-Scoring-System))** – End-to-end pipeline from raw loan data to predictive insights and dashboards.
+- **[Credit Risk Scoring using ML](https://github.com/17devraj/Credit-Risk-Scoring-System)** – End-to-end pipeline from raw loan data to predictive insights and dashboards.
 - **[Data Cleaning Project](link-to-repo)** – A project focused on cleaning and transforming raw data for analysis using Python.
 
 ## Connect With Me
